@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Apr 11 18:04:31 CDT 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vatra\\springCode\\spring-sample-code\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.8.jar=WEB-INF/lib/spring-web-5.3.8.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\vatra\\springCode\\spring-sample-code\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.8-sources.jar=WEB-INF/lib/spring-web-5.3.8-sources.jar
